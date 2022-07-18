@@ -4,7 +4,7 @@ import Navigation from "./components/Navigation";
 import Vita from "./components/Vita";
 import { Col, Container, Row } from 'react-bootstrap';
 import Interests from './components/Interests';
-import Researches from './components/Researches';
+import Research from './components/Research';
 function App() {
   return (
     <main>
@@ -15,7 +15,7 @@ function App() {
             <About />
           </Col>
           <Col xs={8}>
-            <Researches />
+            <Research />
             <Vita />
             <Interests />
           </Col>
