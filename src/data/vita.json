@@ -1,0 +1,65 @@
+[
+  {
+    "achievement": "PhD in Economics",
+    "timeframe": "2019-present",
+    "category": "Education",
+    "description": "",
+    "location": "European University Institute"
+  },
+  {
+    "achievement": "MRes in Economics",
+    "timeframe": "2018-2019",
+    "category": "Education",
+    "description": "",
+    "location": "European University Institute"
+  },
+  {
+    "achievement": "MA in Economics",
+    "timeframe": "2015-2017",
+    "category": "Education",
+    "description": "",
+    "location": "University of Zurich"
+  },
+  {
+    "achievement": "BA in Economics",
+    "timeframe": "2011-2014",
+    "category": "Education",
+    "description": "",
+    "location": "University of Fribourg"
+  },
+  {
+    "achievement": "Visiting Scholar",
+    "timeframe": "2021-2022",
+    "category": "Experience",
+    "description": "",
+    "location": "University of Pennsylvania"
+  },
+  {
+    "achievement": "RA",
+    "timeframe": "2020-2021",
+    "category": "Experience",
+    "description": "",
+    "location": "Robert Schuman Center for Advance Studies"
+  },
+  {
+    "achievement": "RA",
+    "timeframe": "2017-2018",
+    "category": "Experience",
+    "description": "",
+    "location": "Swiss National Bank"
+  },
+  {
+    "achievement": "TA in Macroeconomics II (PhD core course)",
+    "timeframe": "2019-2020",
+    "category": "Teaching",
+    "description": "",
+    "location": "European University Institute"
+  },
+  {
+    "achievement": "Macro-Finance and Policy Design (PhD avanced course)",
+    "timeframe": "2019-2020",
+    "category": "Teaching",
+    "description": "",
+    "location": "European University Institute"
+  }
+]
