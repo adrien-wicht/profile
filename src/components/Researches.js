@@ -38,11 +38,11 @@ function BibTex(props) {
 
 
 
-export default function Publications() {
+export default function Researches() {
 
 
-    return (<section id="publications">
-        <h1>Publications</h1>
+    return (<section id="researches">
+        <h1>Researches</h1>
         {Pubs.map(pub =>
             <div>
                 <Card border="primary" class="Publication-card">

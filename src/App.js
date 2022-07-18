@@ -2,10 +2,9 @@ import './App.css';
 import About from "./components/About";
 import Navigation from "./components/Navigation";
 import Vita from "./components/Vita";
-import { Link, Switch, Route } from 'react-router';
-import Publications from './components/Publications';
 import { Col, Container, Row } from 'react-bootstrap';
 import Interests from './components/Interests';
+import Researches from './components/Researches';
 function App() {
   return (
     <main>
@@ -16,8 +15,8 @@ function App() {
             <About />
           </Col>
           <Col xs={8}>
+            <Researches />
             <Vita />
-            <Publications />
             <Interests />
           </Col>
         </Row>
