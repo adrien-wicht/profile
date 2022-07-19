@@ -12,7 +12,7 @@ function Navigation() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="#research">Research</Nav.Link>
-                        <Nav.Link href="#vita">Curriculum</Nav.Link>
+                        <Nav.Link href="#cv">Curriculum</Nav.Link>
                         <Nav.Link href="#interests">Interests</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>

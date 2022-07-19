@@ -56,25 +56,15 @@ function FaceCard() {
             <Card.Footer>
                 <a href="https://www.eui.eu/people?id=adrien-wicht"><Icons.GeoAltFill /></a><a href="https://www.eui.eu/people?id=adrien-wicht">European University Institute</a>
                 <br />
-
+                <a href="mailto:adrien.wicht@eui.eu"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@eui.eu"> adrien.wicht@eui.eu</a>
+                <br />
+                <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf"><Icons.ClipboardDataFill /></a> <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf">CV</a>
+                <br />
                 <a href="https://ch.linkedin.com/in/adrien-wicht-8a6734218"><Icons.Linkedin /></a> <a href="https://ch.linkedin.com/in/adrien-wicht-8a6734218">Linkedin</a>
                 <br />
-
                 <a href="https://twitter.com/adrienwicht"><Icons.Twitter /></a> <a href="https://twitter.com/adrienwicht">@AdrienWicht</a>
-
                 <br />
-
                 <a href="https://github.com/adrien-wicht"><Icons.Github /></a> <a href="https://github.com/adrien-wicht">@adrien-wicht</a>
-                <br />
-
-
-                <a href="mailto:adrien.wicht@eui.eu"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@eui.eu"> adrien.wicht@eui.eu</a>
-
-                <br />
-
-                <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf"><Icons.ClipboardDataFill /></a> <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf">CV</a>
-
-
             </Card.Footer>
         </Card>
 

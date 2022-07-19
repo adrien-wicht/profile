@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 import Alert from 'react-bootstrap/Alert';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
-
+import * as Icons from 'react-bootstrap-icons'
 
 
 function BibTex(props) {
@@ -16,19 +16,19 @@ function BibTex(props) {
 
     return (
         <>
-            <Icon.Quote variant="primary" onClick={handleShow}>
-                Launch demo modal
-            </Icon.Quote>
-
+            <Button variant="link" onClick={handleShow}><Icons.Quote /></Button>
             <Modal show={show} onHide={handleClose}>
                 <Modal.Header closeButton>
                     <Modal.Title>BibTeX</Modal.Title>
+                    <Button variant="link" onClick={() => { navigator.clipboard.writeText(props.pub.bibtex) }}><Icons.Clipboard /></Button>
                 </Modal.Header>
-                <Modal.Body><pre>{props.pub.bibtex}</pre></Modal.Body>
+                <Modal.Body>{props.pub.bibtex}</Modal.Body>
                 <Modal.Footer>
+
                     <Button variant="primary" onClick={handleClose}>
                         Close
                     </Button>
+
                 </Modal.Footer>
             </Modal>
         </>
@@ -42,11 +42,11 @@ export default function Research() {
 
 
     return (<section id="research">
-        <h1>Research</h1>
+        <h1>Research <Button variant="link" onClick={() => { navigator.clipboard.writeText("https://adrien-wicht.github.io/profile/#research") }}><Icons.Link /></Button></h1>
         {Pubs.map(pub =>
             <div>
                 <Card border="primary" class="Publication-card">
-                    <Card.Header>{pub.title} ({pub.issued['date-parts']}) <a href={pub.download}><Icon.FilePdf /></a>  <BibTex pub={pub} /></Card.Header>
+                    <Card.Header>{pub.title} ({pub.issued['date-parts']}) <Button variant="link" href={pub.download}><Icon.FilePdf /></Button>  <BibTex pub={pub} /></Card.Header>
                     <Card.Body>
                         <blockquote className="blockquote mb-0">
                             <p>
