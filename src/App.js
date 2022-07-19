@@ -5,6 +5,7 @@ import Vita from "./components/Vita";
 import { Col, Container, Row } from 'react-bootstrap';
 import Interests from './components/Interests';
 import Research from './components/Research';
+import Footer from './components/Footer';
 function App() {
   return (
     <main>
@@ -21,7 +22,7 @@ function App() {
           </Col>
         </Row>
       </Container>
-
+      <Footer />
     </main>
   );
 }
