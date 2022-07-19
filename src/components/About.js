@@ -1,9 +1,6 @@
-import Figure from 'react-bootstrap/Figure';
 import Portrait from '../images/portrait.png';
 import Card from 'react-bootstrap/Card';
-import { CardGroup } from "react-bootstrap";
 import * as Icons from "react-bootstrap-icons";
-import { Row, Col } from "react-bootstrap";
 import Toast from 'react-bootstrap/Toast';
 import ToastContainer from 'react-bootstrap/ToastContainer';
 import React from 'react';

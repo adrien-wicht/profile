@@ -2,7 +2,6 @@ import Card from 'react-bootstrap/Card';
 import Pubs from '../data/publications.json'
 import * as Icon from 'react-bootstrap-icons'
 import React, { useState } from 'react';
-import Alert from 'react-bootstrap/Alert';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import * as Icons from 'react-bootstrap-icons'
