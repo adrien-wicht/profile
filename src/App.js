@@ -10,6 +10,7 @@ function App() {
   return (
     <main>
       <Navigation />
+      <br />
       <Container>
         <Row >
           <Col xs={3}>
