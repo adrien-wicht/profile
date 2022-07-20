@@ -9,7 +9,7 @@ Normally, the main developper of the website should have installed a development
 ## Updating section's information
 Before performing any modification, please make sure that your repository is up-to-date by running `git pull`.
 
-### Update publications
+### Updating publications
 
 To update a publication, please add an entry in `publications.json` like the example below
 ```json
@@ -43,7 +43,7 @@ To update a publication, please add an entry in `publications.json` like the exa
 ```
 The `download` and `bibtex` keys may be evicted or left blank. If the `download` key is not blank, please make sure to put your `pdf` file with the correct naming (`zoteroKey.pdf`) in the `publications` **folder**.
 
-### Update curriculum events
+### Updating curriculum events
 
 To add or update a curriculum event, edit the `vita.json` file like shown below.
 ```json
@@ -56,7 +56,7 @@ To add or update a curriculum event, edit the `vita.json` file like shown below.
   }
 ```
 
-### Update interests
+### Updating interests
 To add or update an interest, edit `interests.json` file like shown below.
 ```json
   {
