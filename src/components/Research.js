@@ -13,29 +13,41 @@ function BibTex(props) {
 
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
+    if (props.pub.bibtex === undefined || props.pub.bibtex === "") {
+        return <></>
+    } else {
+        return (
+            <>
+                <Button variant="link" onClick={handleShow}><Icons.Quote /></Button>
+                <Modal show={show} onHide={handleClose}>
+                    <Modal.Header closeButton>
+                        <Modal.Title>BibTeX</Modal.Title>
+                        <Button variant="link" onClick={() => { navigator.clipboard.writeText(props.pub.bibtex) }}><Icons.Clipboard /></Button>
+                    </Modal.Header>
+                    <Modal.Body>{props.pub.bibtex}</Modal.Body>
+                    <Modal.Footer>
 
-    return (
-        <>
-            <Button variant="link" onClick={handleShow}><Icons.Quote /></Button>
-            <Modal show={show} onHide={handleClose}>
-                <Modal.Header closeButton>
-                    <Modal.Title>BibTeX</Modal.Title>
-                    <Button variant="link" onClick={() => { navigator.clipboard.writeText(props.pub.bibtex) }}><Icons.Clipboard /></Button>
-                </Modal.Header>
-                <Modal.Body>{props.pub.bibtex}</Modal.Body>
-                <Modal.Footer>
+                        <Button variant="primary" onClick={handleClose}>
+                            Close
+                        </Button>
 
-                    <Button variant="primary" onClick={handleClose}>
-                        Close
-                    </Button>
-
-                </Modal.Footer>
-            </Modal>
-        </>
-    );
+                    </Modal.Footer>
+                </Modal>
+            </>
+        );
+    }
 }
 
+function PDF(props) {
+    if (props.pub.download === undefined || props.pub.download === "") {
+        return <></>
+    } else {
+        return (
+            <Button variant="link" href={props.pub.download}><Icon.FilePdf /></Button>
+        )
 
+    }
+}
 
 
 export default function Research() {
@@ -82,7 +94,7 @@ export default function Research() {
                     <Card>
                         {Pubs.filter(pub => pub.category.name === t.name).map(pub => {
                             return <>
-                                <Card.Header>{pub.title} ({pub.issued['date-parts']}) <Button variant="link" href={pub.download}><Icon.FilePdf /></Button>  <BibTex pub={pub} /></Card.Header>
+                                <Card.Header>{pub.title} ({pub.issued['date-parts']}) <PDF pub={pub} />  <BibTex pub={pub} /></Card.Header>
                                 <Card.Body>
                                     <blockquote className="blockquote mb-0">
                                         <p>
