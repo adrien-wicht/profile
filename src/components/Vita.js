@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Card, Toast } from "react-bootstrap";
+import { Badge, Button, Card, Toast } from "react-bootstrap";
 import * as Icons from "react-bootstrap-icons";
 
 import Events from '../data/vita.json';
@@ -17,7 +17,7 @@ export default function Vita() {
             <div>
 
                 <Card border="primary" class="Publication-card">
-                    <Card.Header>{t}</Card.Header>
+                    <Card.Header><Card.Title><Badge bg="secondary">{t}</Badge></Card.Title></Card.Header>
                     <Card>
                         {Events.filter(e => e.category === t).map(e => <div> <Card.Header>{e.achievement} </Card.Header><Card.Body><Icons.GeoAltFill /> <a>{e.location}</a> </Card.Body> <Card.Body><Icons.Calendar3RangeFill /> <a> {e.timeframe}</a></Card.Body></div>)}
                     </Card>
