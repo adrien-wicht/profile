@@ -39,9 +39,9 @@ To update a publication, please add an entry in `publications.json` like the exa
     },
     "citation-key": "zoteroKey",
     "bibtex": "bibtex key beginning with '@' and on one line"
-  },
+  }
 ```
-The `download` and `bibtex` key may be evicted or left blank. If the `download` key is not blank, please make sure to put your `pdf` file with the correct naming (`zoteroKey.pdf`) in the `publications` **folder**.
+The `download` and `bibtex` keys may be evicted or left blank. If the `download` key is not blank, please make sure to put your `pdf` file with the correct naming (`zoteroKey.pdf`) in the `publications` **folder**.
 
 ### Update curriculum events
 
