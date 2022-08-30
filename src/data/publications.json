@@ -17,7 +17,7 @@
       }
     ],
     "issued": {
-      "date-parts": [["2022"]]
+    "date-parts": [["2022"]]
     },
     "citation-key": "wichtHDD2022",
     "bibtex": "@article{wichtHDD2022, title = {Efficient Sovereign Debt Management: The role of History, Maturity, Buyback and Default}, author = {Wicht, Adrien}, date = {2022}, pages = {56}, abstract = {This paper identifies the role of past history, buybacks and defaults in the context of constrained efficient sovereign borrowing. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is relatively impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and debt buybacks. Especially, when the borrower is sufficiently patient Markov strategies can implement the Planner's allocation in steady state. Otherwise, history-dependent strategies are required. Nevertheless, interpreting the impatient borrower as a shot-run player, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the constrained efficient allocation represents an ideal type which can only be approximated by the market economy through history-invariant debt management policies.}, langid = {english},}"
