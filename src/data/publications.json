@@ -56,6 +56,44 @@
     "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making {{Sovereign Debt Safe}} with a {{Financial Stability Fund}}}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, pages = {86}, abstract = {We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow long-term defaultable bonds on the private international market, while having with the Fund a long-term contingent contracts subject to limited enforcement constraints. There is a contract that minimizes the debt absorbed by the Fund guaranteeing full debt stabilization. In equilibrium, the seniority of the Fund contract, with respect to the privately held debt, is irrelevant. We calibrate our model to the Italian economy and show it would have been a more efficient path of debt accumulation with the Fund.}, langid = {english},}"
   },
   {
+    "id": "GEE2022",
+    "filename": "",
+    "download": "",
+    "type": "article-journal",
+    "category": { "name": "Work in progress", "colour": "primary" },
+    "abstract": "Slides available upon request",
+    "language": "en",
+    "page": "",
+    "title": "The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem",
+    "author": [
+      {
+        "family": "Mateos-Planas",
+        "given": "Xavier",
+        "link": "https://sites.google.com/view/xmateosplanas"
+      },
+      {
+        "family": "McCrary",
+        "given": "Sean",
+        "link": "https://economics.sas.upenn.edu/people/sean-mccrary"
+      },
+      {
+        "family": "Rios-Rull",
+        "given": "Jose-Victor",
+        "link": "https://www.sas.upenn.edu/~vr0j/"
+      },
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2022"]]
+    },
+    "citation-key": "GEE2022",
+    "bibtex": ""
+  },
+  {
     "id": "wichtSenioritySovereignDefault2022",
     "filename": "wichtSenioritySovereignDefault2022.pdf",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSenioritySovereignDefault2022.pdf",
