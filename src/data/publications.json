@@ -5,11 +5,14 @@
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtHDD2022.pdf",
     "type": "article-journal",
     "category": { "name": "Work in progress", "colour": "primary" },
-    "abstract": "This paper identifies the role of past history, buybacks and defaults in the context of constrained efficient sovereign borrowing. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is relatively impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and debt buybacks. Especially, when the borrower is sufficiently patient Markov strategies can implement the Planner's allocation in steady state. Otherwise, history-dependent strategies are required. Nevertheless, interpreting the impatient borrower as a shot-run player, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the constrained efficient allocation represents an ideal type which can only be approximated by the market economy through history-invariant debt management policies.",
+    "abstract": "This paper identifies the role of past history, buybacks and defaults in the context of constrained efficient sovereign borrowing. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is relatively impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and debt buybacks. Especially, when the borrower is sufficiently patient Markov strategies can implement the Planner's allocation in steady state. Otherwise, history-dependent strategies are required. Nevertheless, interpreting the impatient borrower as a shot-run player, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the constrained efficient allocation represents an ideal type which can only be approximated by the market economy through history-invariant debt management policies Argentina and Brazil present evidence of such approximation albeit with different policies and outcome.",
     "language": "en",
     "page": "56",
     "title": "Efficient Sovereign Debt Management: The role of History, Maturity, Buyback and Default",
     "author": [
+      {
+        "family": "Presented at: Barcelona Summer Forum (ADEMU) 2022, Penn Macro Student Talk 2022"
+      },
       {
         "family": "Wicht",
         "given": "Adrien",
@@ -61,7 +64,7 @@
     "download": "",
     "type": "article-journal",
     "category": { "name": "Work in progress", "colour": "primary" },
-    "abstract": "Slides available upon request",
+    "abstract": "Slides available upon request.",
     "language": "en",
     "page": "",
     "title": "The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem",
