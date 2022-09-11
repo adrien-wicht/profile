@@ -64,6 +64,11 @@ To add or update an interest, edit `interests.json` file like shown below.
     "title": "name of interest"
   }
 ```
+## Sitemap
+It is extremely important to also update your sitemap located in `public/sitemap.xml`. It should be done **after** updating your website but **before** commiting your modifications. Moreover it should be part of the git staging and the website deployment highlighted in the next section. To update the sitemap, only modify the `<lastmod>` tag to the current date (don't bother with time). The time should be in [ISO](https://en.wikipedia.org/wiki/ISO_8601) format like in the following example.
+```xml
+<lastmod>2022-09-11T00:00:00+00:00</lastmod>
+```
 ## Building
 Prior to building, it is highly recommended to test that your modifications are viable by spawning the local website with `npm start`, which is then available at [http://localhost:3000/profile](http://localhost:3000/profile). After that, you'll want to `add` (or stage) your modifications with `git add <files>`, `commit` them with a friendly message (e.g., `git commit -m "update: added a new publication"`) and finally `push` them with `git push`.
 
