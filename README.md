@@ -69,7 +69,7 @@ It is extremely important to also update your sitemap located in `public/sitemap
 ```xml
 <lastmod>2022-09-11T00:00:00+00:00</lastmod>
 ```
-## Staging, testing and deploying 
+## Testing, staging and deploying 
 Prior to deploying your website, it is highly recommended to test that your modifications are viable by spawning the local website with `npm start`, which is then available at [http://localhost:3000/profile](http://localhost:3000/profile). After that, you'll want to `add` (or stage) your modifications with `git add <files>`, `commit` them with a friendly message (e.g., `git commit -m "update: added a new publication"`) and finally `push` them with `git push`.
 
 To deploy your website a single command suffices: `npm run deploy`. This command will effectively update the resources on the github page.
