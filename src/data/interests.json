@@ -1,14 +1,18 @@
 [
   {
     "field": "research",
+    "title": "Dynamic Macroeconomics"
+  },
+  {
+    "field": "research",
     "title": "International Macroeconomics"
   },
   {
     "field": "research",
-    "title": "Sovereign defaults and restructurings"
+    "title": "Sovereign Debt and Defaults"
   },
   {
     "field": "research",
-    "title": "Recursive contracts"
+    "title": "Optimal Contracts"
   }
 ]

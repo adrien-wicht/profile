@@ -17,7 +17,7 @@ function FaceCard() {
             <Card.Body>
                 <Card.Text>
                     I am a PhD candidate in Economics at the European University Institute. My advisors are Ramon Marimon and Alexander Monge-Naranjo.
-                    My research interests lie in Dynamic Macroeconomics, International Economics, Sovereign Default and Contract Design.
+                    My research interests lie in Dynamic Macroeconomics, International Economics, Sovereign Defaults and Contract Design.
                 </Card.Text>
             </Card.Body>
 
