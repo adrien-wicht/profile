@@ -62,6 +62,32 @@
     "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making {{Sovereign Debt Safe}} with a {{Financial Stability Fund}}}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, pages = {86}, abstract = {We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow long-term defaultable bonds on the private international market, while having with the Fund a long-term contingent contracts subject to limited enforcement constraints. There is a contract that minimizes the debt absorbed by the Fund guaranteeing full debt stabilization. In equilibrium, the seniority of the Fund contract, with respect to the privately held debt, is irrelevant. We calibrate our model to the Italian economy and show it would have been a more efficient path of debt accumulation with the Fund.}, langid = {english},}"
   },
   {
+    "id": "wichtSenioritySovereignDefault2022",
+    "filename": "wichtSenioritySovereignDefault2022.pdf",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSenioritySovereignDefault2022.pdf",
+    "type": "article-journal",
+    "category": { "name": "Work in progress", "colour": "primary" },
+    "abstract": "Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which multilateral institutions – essentially the International Monetary Fund and the World Bank – are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, it presents strong evidence that defaults involving multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors’ losses. It subsequently builds a model of endogenous defaults and renegotiations to rationalize those ﬁndings. There, the multilateral debt generates an important pecuniary spillover. While it can work as a commitment device and dampen the default risk, it raises the subordination risk of private liabilities. Furthermore, a tough renegotiation strategy ensures that the multilateral lenders can maintain a lending policy at preferential rates. It also rationalizes the longer default’s duration and the greater private creditors’ losses observed in default episodes involving multilateral lenders. The subordination of private lenders further accounts for the large increase in spreads during debt crises.",
+    "language": "en",
+    "page": "80",
+    "title": "Seniority and Sovereign Default",
+    "author": [
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      },
+      {
+        "family": "Presented at: Penn Macro Lunch 2021, Philadelphia Fed Research Seminar 2022, RIEF Conference 2022, DebtCon5 2022."
+      }
+    ],
+    "issued": {
+      "date-parts": [["2022"]]
+    },
+    "citation-key": "wichtSenioritySovereignDefault2022",
+    "bibtex": "@article{wichtSenioritySovereignDefault2022, title = {Seniority and {{Sovereign Default}}}, author = {Wicht, Adrien}, date = {2022}, pages = {80}, abstract = {Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which multilateral institutions – essentially the International Monetary Fund and the World Bank – are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, it presents strong evidence that defaults involving multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors’ losses. It subsequently builds a model of endogenous defaults and renegotiations to rationalize those findings. There, the multilateral debt generates an important pecuniary spillover. While it can work as a commitment device and dampen the default risk, it raises the subordination risk of private liabilities. Furthermore, a tough renegotiation strategy ensures that the multilateral lenders can maintain a lending policy at preferential rates. It also rationalizes the longer default’s duration and the greater private creditors’ losses observed in default episodes involving multilateral lenders. The subordination of private lenders further accounts for the large increase in spreads during debt crises.}, langid = {english},}"
+  },
+  {
     "id": "GEE2022",
     "filename": "vicgoofstonybrook",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/vicgoofstonybrook.pdf",
@@ -101,32 +127,6 @@
     },
     "citation-key": "GEE2022",
     "bibtex": ""
-  },
-  {
-    "id": "wichtSenioritySovereignDefault2022",
-    "filename": "wichtSenioritySovereignDefault2022.pdf",
-    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSenioritySovereignDefault2022.pdf",
-    "type": "article-journal",
-    "category": { "name": "Work in progress", "colour": "primary" },
-    "abstract": "Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which multilateral institutions – essentially the International Monetary Fund and the World Bank – are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, it presents strong evidence that defaults involving multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors’ losses. It subsequently builds a model of endogenous defaults and renegotiations to rationalize those ﬁndings. There, the multilateral debt generates an important pecuniary spillover. While it can work as a commitment device and dampen the default risk, it raises the subordination risk of private liabilities. Furthermore, a tough renegotiation strategy ensures that the multilateral lenders can maintain a lending policy at preferential rates. It also rationalizes the longer default’s duration and the greater private creditors’ losses observed in default episodes involving multilateral lenders. The subordination of private lenders further accounts for the large increase in spreads during debt crises.",
-    "language": "en",
-    "page": "80",
-    "title": "Seniority and Sovereign Default",
-    "author": [
-      {
-        "family": "Wicht",
-        "given": "Adrien",
-        "link": "https://adrien-wicht.github.io/profile/"
-      },
-      {
-        "family": "Presented at: Penn Macro Lunch 2021, Philadelphia Fed Research Seminar 2022, RIEF Conference 2022, DebtCon5 2022."
-      }
-    ],
-    "issued": {
-      "date-parts": [["2022"]]
-    },
-    "citation-key": "wichtSenioritySovereignDefault2022",
-    "bibtex": "@article{wichtSenioritySovereignDefault2022, title = {Seniority and {{Sovereign Default}}}, author = {Wicht, Adrien}, date = {2022}, pages = {80}, abstract = {Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which multilateral institutions – essentially the International Monetary Fund and the World Bank – are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, it presents strong evidence that defaults involving multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors’ losses. It subsequently builds a model of endogenous defaults and renegotiations to rationalize those findings. There, the multilateral debt generates an important pecuniary spillover. While it can work as a commitment device and dampen the default risk, it raises the subordination risk of private liabilities. Furthermore, a tough renegotiation strategy ensures that the multilateral lenders can maintain a lending policy at preferential rates. It also rationalizes the longer default’s duration and the greater private creditors’ losses observed in default episodes involving multilateral lenders. The subordination of private lenders further accounts for the large increase in spreads during debt crises.}, langid = {english},}"
   },
   {
     "id": "gerigkDemographicsCurrentAccount2018",
