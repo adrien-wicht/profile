@@ -52,7 +52,7 @@
         "link": "https://adrien-wicht.github.io/profile/"
       },
       {
-        "family": "Presented at: ADEMU Workshop 2020, EEA meeting 2021, ESM Research Seminar 2021, SED Annual Meeting 2022, XXIV IEF Workshop 2022."
+        "family": "Presented at: ADEMU Workshop 2020, EEA meeting 2021, ESM Research Seminar 2021, SED Annual Meeting 2022, XXIV IEF Workshop 2022, Sovereign Debt Conference at Minneapolis Fed 2022."
       }
     ],
     "issued": {
@@ -67,7 +67,7 @@
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSenioritySovereignDefault2022.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which official multilateral lenders -- i.e. the International Monetary Fund and the World Bank -- are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving official multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that a strict no-lending-into-arrear policy can explain most of the aforementioned empirical facts. In addition, the de facto seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of official multilateral debt and would not necessarily prefer other seniority regimes.",
+    "abstract": "Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which official multilateral lenders - i.e. the International Monetary Fund and the World Bank - are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving official multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that a strict no-lending-into-arrear policy can explain most of the aforementioned empirical facts. In addition, the de facto seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of official multilateral debt and would not necessarily prefer other seniority regimes.",
     "language": "en",
     "page": "80",
     "title": "Seniority and Sovereign Default",
@@ -93,7 +93,7 @@
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/vicgoofstonybrook.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "This paper characterizes the equilibrium of the standard incomplete   markets models with defaults and long-term debt. A risk-averse borrower issues   long-term non-contigent bonds but cannot commit to its future selves to   repay. We characterize and solve for the Markov equilibrium of the dynamic   game with successive borrowers through a Euler equation with derivative on   future actions -- i.e. a generalized Euler equation. We disentangle the effect   due to default and dilution of legacy creditors and show that the price and   policy functions exhibit jumps in various places. Taking the limit of finite   horizon, we show existence and uniqueness of the Markov equilibrium. We also   present conditions under which the price and policy functions are   differentiable almost everywhere.",
+    "abstract": "This paper characterizes the equilibrium of the standard incomplete   markets models with defaults and long-term debt. A risk-averse borrower issues   long-term non-contigent bonds but cannot commit to its future selves to   repay. We characterize and solve for the Markov equilibrium of the dynamic   game with successive borrowers through a Euler equation with derivative on   future actions - i.e. a generalized Euler equation. We disentangle the effect   due to default and dilution of legacy creditors and show that the price and   policy functions exhibit jumps in various places. Taking the limit of finite   horizon, we show existence and uniqueness of the Markov equilibrium. We also   present conditions under which the price and policy functions are   differentiable almost everywhere.",
     "language": "en",
     "page": "",
     "title": "The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem",
