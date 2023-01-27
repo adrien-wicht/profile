@@ -1,7 +1,7 @@
 [
   {
     "id": "wichtHDD2023",
-    "filename": "wichtHDD2022.pdf",
+    "filename": "wichtHDD2023.pdf",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtHDD2023.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
@@ -23,7 +23,7 @@
     "date-parts": [["2023"]]
     },
     "citation-key": "wichtHDD2023",
-    "bibtex": "@article{wichtHDD2023, title = {Efficient Sovereign Debt Management: The role of History, Maturity, Buyback and Default}, author = {Wicht, Adrien}, date = {2022}, pages = {56}, abstract = {This paper identifies the role of past history, maturity, buyback and default in the context of constrained efficient sovereign borrowing. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and costly debt buybacks. Moreover, as the lender must enforce those buybacks, the implementation often requires history-dependent strategies. Nevertheless, interpreting the borrower's impatience as a form of fading memory, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the Planner's allocation can only be approximated by the market economy through Markov debt management policies. Emerging economies such as Argentina and Brazil present evidence of such approximation albeit with different policies and outcome.}, langid = {english},}"
+    "bibtex": "@article{wichtHDD2023, title = {Efficient Sovereign Debt Management: The role of History, Maturity, Buyback and Default}, author = {Wicht, Adrien}, date = {2023}, langid = {english},}"
   },
   {
     "id": "YRAMakingSovereignDebt2022",
@@ -59,18 +59,18 @@
       "date-parts": [["2022"]]
     },
     "citation-key": "liuMakingSovereignDebt2022",
-    "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making {{Sovereign Debt Safe}} with a {{Financial Stability Fund}}}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, pages = {86}, abstract = {We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow long-term defaultable bonds on the private international market, while having with the Fund a long-term contingent contracts subject to limited enforcement constraints. There is a contract that minimizes the debt absorbed by the Fund guaranteeing full debt stabilization. In equilibrium, the seniority of the Fund contract, with respect to the privately held debt, is irrelevant. We calibrate our model to the Italian economy and show it would have been a more efficient path of debt accumulation with the Fund.}, langid = {english},}"
+    "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making {{Sovereign Debt Safe}} with a {{Financial Stability Fund}}}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, langid = {english},}"
   },
   {
-    "id": "wichtSenioritySovereignDefault2022",
-    "filename": "wichtSenioritySovereignDefault2022.pdf",
-    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSenioritySovereignDefault2022.pdf",
+    "id": "wichtSeniority2023",
+    "filename": "wichtSeniority2023.pdf",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSeniority2023.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which official multilateral lenders - i.e. the International Monetary Fund and the World Bank - are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving official multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that a strict no-lending-into-arrear policy can explain most of the aforementioned empirical facts. In addition, the de facto seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of official multilateral debt and would not necessarily prefer other seniority regimes.",
+    "abstract": "Sovereign countries do not necessarily repay all its creditors. There is a clear pecking order in which (official) multilateral lenders - i.e. the International Monetary Fund and the World Bank - are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this \textit{de facto} seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving  multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that the typical no-lending-into-arrear policy adopted by multilateral lenders can explain most of the aforementioned empirical facts. In addition, the \textit{de facto} seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of  multilateral debt and would not necessarily prefer other seniority regimes.",
     "language": "en",
     "page": "80",
-    "title": "Seniority and Sovereign Default",
+    "title": "Seniority and Sovereign Default: The Role of Official Multilateral Lenders",
     "author": [
       {
         "family": "Wicht",
@@ -82,10 +82,10 @@
       }
     ],
     "issued": {
-      "date-parts": [["2022"]]
+      "date-parts": [["2023"]]
     },
-    "citation-key": "wichtSenioritySovereignDefault2022",
-    "bibtex": "@article{wichtSenioritySovereignDefault2022, title = {Seniority and {{Sovereign Default}}}, author = {Wicht, Adrien}, date = {2022}, pages = {80}, abstract = {Sovereign countries do not necessarily repay all its creditors. In fact, one observes a clear pecking order in which official multilateral lenders - i.e. the International Monetary Fund and the World Bank - are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving official multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that a strict no-lending-into-arrear policy can explain most of the aforementioned empirical facts. In addition, the de facto seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of official multilateral debt and would not necessarily prefer other seniority regimes.}, langid = {english},}"
+    "citation-key": "wichtSeniority2023",
+    "bibtex": "@article{wichtSeniority2023, title = {Seniority and Sovereign Default: The Role of Official Multilateral Lenders}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
   },
   {
     "id": "GEE2022",
@@ -126,7 +126,7 @@
       "date-parts": [["2022"]]
     },
     "citation-key": "GEE2022",
-    "bibtex": ""
+    "bibtex": "@Article{GEE2022,   author = {Mateos-Planas, Xavier and McCrary, Sean and Rios-Rull, Jose-Victor and Wicht, Adrien},   title  = {The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem},   year   = {2022}, }"
   },
   {
     "id": "gerigkDemographicsCurrentAccount2018",
@@ -159,7 +159,7 @@
       "date-parts": [["2018"]]
     },
     "citation-key": "gerigkDemographicsCurrentAccount2018",
-    "bibtex": "@article{gerigkDemographicsCurrentAccount2018, title = {Demographics and the Current Account}, author = {Gerigk Joschka and Rinawi, Miriam and Wicht, Adrien}, date = {2018}, pages = {32}, langid = {english},}"
+    "bibtex": "@article{gerigkDemographicsCurrentAccount2018, title = {Demographics and the Current Account}, author = {Gerigk Joschka and Rinawi, Miriam and Wicht, Adrien}, date = {2018}, journal = {Aussenwirtschaft}, volume = {69}, number = {1}, pages = {45-76}, langid = {english},}"
   },
   {
     "id": "marimonEuroAreaFiscal2021",
@@ -187,6 +187,6 @@
       "date-parts": [["2021"]]
     },
     "citation-key": "marimonEuroAreaFiscal2021",
-    "bibtex": "@article{marimonEuroAreaFiscal2021,title = {Euro {{Area}} Fiscal Policies and Capacity in Post-Pandemic Times}, author = {Marimon, Ramon and Wicht, Adrien}, date = {2021}, pages = {40}, abstract = {The main legacy of the post-Covid-19-crisis euro area fiscal framework should be the development of a unique integrated fiscal policy and of a permanent and independent Fiscal Fund to implement it. To arrive at this conclusion, we analyse the challenges and build on current research on the optimal design of a fiscal fund. We characterise the fiscal policy, and the development of the Fund, together with the role and form that the Stability and Growth Pact can take in the new fiscal framework.}, langid = {english},}"
+    "bibtex": "@article{marimonEuroAreaFiscal2021,title = {Euro {{Area}} Fiscal Policies and Capacity in Post-Pandemic Times}, author = {Marimon, Ramon and Wicht, Adrien}, date = {2021}, pages = {40}, journal = {European Parliament, Economic Governance Support Unit}, number = {PE 651.392}, langid = {english},}"
   }
 ]
