@@ -23,7 +23,7 @@
     "date-parts": [["2023"]]
     },
     "citation-key": "wichtHDD2023",
-    "bibtex": "@article{wichtHDD2023, title = {Efficient Sovereign Debt Management: The role of History, Maturity, Buyback and Default}, author = {Wicht, Adrien}, date = {2023}, langid = {english},}"
+    "bibtex": "@article{wichtHDD2023, title = {Efficient Sovereign Debt Management: The role of History, Maturity, Buyback and Default}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
   },
   {
     "id": "YRAMakingSovereignDebt2022",
@@ -59,7 +59,7 @@
       "date-parts": [["2022"]]
     },
     "citation-key": "liuMakingSovereignDebt2022",
-    "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making {{Sovereign Debt Safe}} with a {{Financial Stability Fund}}}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, langid = {english},}"
+    "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
   },
   {
     "id": "wichtSeniority2023",
