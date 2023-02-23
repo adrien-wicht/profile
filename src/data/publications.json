@@ -26,6 +26,32 @@
     "bibtex": "@article{wichtHDD2023, title = {Efficient Sovereign Debt Management in Emerging Economies}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
   },
   {
+    "id": "wichtSeniority2023",
+    "filename": "wichtSeniority2023.pdf",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSeniority2023.pdf",
+    "type": "article-journal",
+    "category": { "name": "Current work and working papers", "colour": "primary" },
+    "abstract": "Sovereign countries do not necessarily repay all its creditors. There is a clear pecking order in which (official) multilateral lenders - i.e. the International Monetary Fund and the World Bank - are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving  multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that the typical no-lending-into-arrear policy adopted by multilateral lenders can explain most of the aforementioned empirical facts. In addition, the de facto seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of  multilateral debt and would not necessarily prefer other seniority regimes.",
+    "language": "en",
+    "page": "80",
+    "title": "Seniority and Sovereign Default: The Role of Official Multilateral Lenders",
+    "author": [
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      },
+      {
+        "family": "Presented at: Penn Macro Lunch 2021, Philadelphia Fed Research Seminar 2022, RIEF Conference 2022, DebtCon5 2022."
+      }
+    ],
+    "issued": {
+      "date-parts": [["2023"]]
+    },
+    "citation-key": "wichtSeniority2023",
+    "bibtex": "@article{wichtSeniority2023, title = {Seniority and Sovereign Default: The Role of Official Multilateral Lenders}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
+  },
+  {
     "id": "YRAMakingSovereignDebt2022",
     "filename": "YRAMakingSovereignDebt2022.pdf",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/YRAMakingSovereignDebt2022.pdf",
@@ -60,32 +86,6 @@
     },
     "citation-key": "liuMakingSovereignDebt2022",
     "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
-  },
-  {
-    "id": "wichtSeniority2023",
-    "filename": "wichtSeniority2023.pdf",
-    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtSeniority2023.pdf",
-    "type": "article-journal",
-    "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "Sovereign countries do not necessarily repay all its creditors. There is a clear pecking order in which (official) multilateral lenders - i.e. the International Monetary Fund and the World Bank - are given priority in repayment. Yet, this preferred status is a market practice and is not legally binding. This paper documents the implications of this de facto seniority structure of sovereign debt. Empirically, I present strong evidence that defaults involving  multilateral lenders are infrequent, last relatively longer and are associated with greater private creditors' losses. To rationalize those findings, I build a model of endogenous defaults and renegotiations. I show that the typical no-lending-into-arrear policy adopted by multilateral lenders can explain most of the aforementioned empirical facts. In addition, the de facto seniority generates important spillovers on other creditors and is a source of fiscal discipline. The borrower values the use of  multilateral debt and would not necessarily prefer other seniority regimes.",
-    "language": "en",
-    "page": "80",
-    "title": "Seniority and Sovereign Default: The Role of Official Multilateral Lenders",
-    "author": [
-      {
-        "family": "Wicht",
-        "given": "Adrien",
-        "link": "https://adrien-wicht.github.io/profile/"
-      },
-      {
-        "family": "Presented at: Penn Macro Lunch 2021, Philadelphia Fed Research Seminar 2022, RIEF Conference 2022, DebtCon5 2022."
-      }
-    ],
-    "issued": {
-      "date-parts": [["2023"]]
-    },
-    "citation-key": "wichtSeniority2023",
-    "bibtex": "@article{wichtSeniority2023, title = {Seniority and Sovereign Default: The Role of Official Multilateral Lenders}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
   },
   {
     "id": "GEE2022",
