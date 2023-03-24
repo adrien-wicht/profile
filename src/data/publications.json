@@ -52,12 +52,12 @@
     "bibtex": "@article{wichtSeniority2023, title = {Seniority and Sovereign Default: The Role of Official Multilateral Lenders}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
   },
   {
-    "id": "YRAMakingSovereignDebt2022",
-    "filename": "YRAMakingSovereignDebt2022.pdf",
-    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/YRAMakingSovereignDebt2022.pdf",
+    "id": "YRAMakingSovereignDebt2023",
+    "filename": "YRAMakingSovereignDebt2023.pdf",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/YRAMakingSovereignDebt2023.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow defaultable bonds on the private international market, while having with the Fund a long-term contingent contract subject to limited enforcement constraints. The Fund contract does not have ex-ante conditionality, but it requires an accurate country-specific risk-assessment (DSA), accounting for the Fund contract. The Fund periodically announces the level of liabilities the country can sustain to achieve this allocation. The Fund is only required minimal absorption of the sovereign debt (nil, if sovereign debt is one-period), but it must provide insurance (Arrow-securities) to the country. The Recursive Competitive Equilibrium is constrained-efficient and, as part of it, the Fund announcement is realized. Furthermore, the seniority of the Fund contract, with respect to the privately held debt, is irrelevant. We calibrate our model to the Italian economy and show it would have had a more efficient path of debt accumulation with the Fund.",
+    "abstract": "We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow defaultable bonds on the private international market, while having with the Fund a long-term contingent contract subject to limited enforcement constraints. The Fund contract does not have {ex ante} conditionality, but requires an accurate country-specific risk-assessment (DSA), accounting for the Fund contract. The Fund periodically announces the level of liabilities the country can sustain to achieve the constrained-efficient allocation. The Fund is only required {minimal absorption} of the sovereign debt, but it must provide insurance (Arrow-securities) to the country. Furthermore, with the Fund {all sovereign debt is safe independently of the seniority structure}; however, seniority of the Fund, with respect to the private lenders, may require a greater {minimal absorption} than a {pari passu} regime. We calibrate our model to the Italian economy and show it would have had a more efficient path of debt accumulation with the Fund.",
     "language": "en",
     "page": "86",
     "title": "Making Sovereign Debt Safe with a Financial Stability Fund",
@@ -82,10 +82,10 @@
       }
     ],
     "issued": {
-      "date-parts": [["2022"]]
+      "date-parts": [["2023"]]
     },
-    "citation-key": "liuMakingSovereignDebt2022",
-    "bibtex": "@article{liuMakingSovereignDebt2022, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
+    "citation-key": "liuMakingSovereignDebt2023",
+    "bibtex": "@article{liuMakingSovereignDebt2023, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
   },
   {
     "id": "GEE2022",
