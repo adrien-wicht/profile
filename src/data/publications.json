@@ -1,11 +1,11 @@
 [
   {
-    "id": "wichtHDD2023",
-    "filename": "wichtHDD2023.pdf",
-    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/wichtHDD2023.pdf",
+    "id": "Wicht_JMP",
+    "filename": "Wicht_JMP.pdf",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/Wicht_JMP.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "This paper assesses the sovereign debt management of emerging economies in terms of constrained Pareto efficiency. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and costly debt buybacks. Moreover, as the lender must enforce those buybacks, the implementation often requires history-dependent strategies. Nevertheless, interpreting the borrower's impatience as a form of fading memory, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the Planner's allocation can only be approximated by the market economy through Markov debt management policies. Argentina and Brazil present evidence of such approximation albeit with different policies and outcome. In particular, I show that the latter comes closer to constrained Pareto efficiency.",
+    "abstract": "This paper assesses the sovereign debt management of emerging economies in terms of constrained Pareto efficiency. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and costly debt buybacks. Moreover, as the lender must enforce those buybacks, the implementation often requires history-dependent strategies. Nevertheless, interpreting the borrower's impatience as a form of fading memory, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the Planner's allocation can only be approximated by Markov debt management policies. I show that emerging economies such as Argentina and Brazil present evidence of such approximation albeit with different policies and outcome. In particular, conducting buybacks, the latter country comes quantitatively closer to constrained Pareto efficiency.",
     "language": "en",
     "page": "56",
     "title": "Efficient Sovereign Debt Management in Emerging Economies",
@@ -88,6 +88,47 @@
     "bibtex": "@article{liuMakingSovereignDebt2023, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
   },
   {
+    "id": "GLRA2023",
+    "filename": "GLRA2023.pdf",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/GLRA2023.pdf",
+    "type": "article-journal",
+    "category": { "name": "Current work and working papers", "colour": "primary" },
+    "abstract": "We explore the complementarity between a central bank and a financial stability Fund in stabilizing sovereign debt markets. The central bank pursuing its mandate can intervene with public sector purchasing programs, buying sovereign debt in the secondary market, provided that the debt is safe. The sovereign sells its debt to private lenders, through market auctions. Furthermore, it has access to a long-term state-contingent contract with a Fund: a country-specific debt-and-insurance contract which accounts for no-default and sustainability constraints. The Fund needs to guarantee gross-financial-needs and no-over-lending. We show that these constraints, if they are binding at the steady-state, endogenously determine the optimal debt maturity structure that minimizes the Required Fund Capacity (RFC) to make all sovereign debt safe. However, the Fund may have limited absorption capacity and not be able to cover its RFC. But the central bank may be able to cover the difference, in which case there is perfect complementarity and the joint institutions act as an effective lender of last resort. We calibrate our model to the Italian economy and find that with of a Fund contract its optimal maturity is 3 years with a RFC of 125% of its GDP, above what the European Stability Mechanism (ESM) could reasonably absorb, but may be feasible with an ECB Transmission Protection Instrument (TPI) intervention. In contrast, the average maturity of Italian sovereign debt has been circa 6.2 years, with a needed absorption capacity around 135% of GDP, which calls for a maturity restructure to ease the activation of TPI.",
+    "language": "en",
+    "page": "86",
+    "title": "On a Lender of Last Resort with a Central Bank and a Stability Fund",
+    "author": [
+      {
+        "family": "Callegari",
+        "given": "Giovanni",
+        "link": ""
+      },
+      {
+        "family": "Marimon",
+        "given": "Ramon",
+        "link": "https://www.ramonmarimon.eu/"
+      },
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      },
+      {
+        "family": "Zavalloni",
+        "given": "Luca",
+        "link": "https://sites.google.com/site/lucazavalloniwarwick/"
+      },
+      {
+        "family": "Presented at: BSE Summer Forum 2023"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2023"]]
+    },
+    "citation-key": "GLRA2023",
+    "bibtex": "@article{GLRA2023, title = {On a Lender of Last Resort with a Central Bank and a Stability Fund}, author = {Callegari, Giovanni and Marimon, Ramon and Wicht, Adrien and Zavalloni, Luca}, date = {2023}, langid = {english},}"
+  },
+  {
     "id": "GEE2022",
     "filename": "vicgoofstonybrook",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/vicgoofstonybrook.pdf",
@@ -127,6 +168,44 @@
     },
     "citation-key": "GEE2022",
     "bibtex": "@Article{GEE2022,   author = {Mateos-Planas, Xavier and McCrary, Sean and Rios-Rull, Jose-Victor and Wicht, Adrien},   title  = {The Generalized Euler Equation and the Bankruptcy-Sovereign Default Problem},   year   = {2022}, }"
+  },
+  {
+    "id": "vvvmmrwcom",
+    "filename": "vvvmmrwcom",
+    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/vvvmmrwcom.pdf",
+    "type": "article-journal",
+    "category": { "name": "Current work and working papers", "colour": "primary" },
+    "abstract": "We study the role of lack commitment in shaping the allocations of the canonical incomplete-markets sovereign default model of  Eaton and Gersovitz (1981).  We show how the equilibrium with commitment to the circumstances under which default can be undertaken involves a very different set of functional equations than in the equilibrium without commitment. It turns out that, in practice, under commitment default does not exist in all but very extreme quantitative environments. We document how the standard specification of Arellano (2008) displays no default if there is commitment, even in the absence of both utility cost and exclusion from borrowing. While less standard specifications can produce some default under commitment, we provide examples that demonstrate how rare default is. We interpret default as a recourse of last resort.",
+    "language": "en",
+    "page": "",
+    "title": "Commitment in the Canonical Sovereign Default Model",
+    "author": [
+      {
+        "family": "Mateos-Planas",
+        "given": "Xavier",
+        "link": "https://sites.google.com/view/xmateosplanas"
+      },
+      {
+        "family": "McCrary",
+        "given": "Sean",
+        "link": "https://economics.sas.upenn.edu/people/sean-mccrary"
+      },
+      {
+        "family": "Rios-Rull",
+        "given": "Jose-Victor",
+        "link": "https://www.sas.upenn.edu/~vr0j/"
+      },
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2023"]]
+    },
+    "citation-key": "vvvmmrwcom",
+    "bibtex": "@Article{vvvmmrwcom,   author = {Mateos-Planas, Xavier and McCrary, Sean and Rios-Rull, Jose-Victor and Wicht, Adrien},   title  = {Commitment in the Canonical Sovereign Default Model},   year   = {2023}, }"
   },
   {
     "id": "gerigkDemographicsCurrentAccount2018",
