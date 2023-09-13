@@ -5,7 +5,7 @@
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/Wicht_JMP.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "This paper assesses the sovereign debt management of emerging economies in terms of constrained Pareto efficiency. I derive a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with a foreign lender. The borrower is impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by changes in maturity and costly debt buybacks. Moreover, as the lender must enforce those buybacks, the implementation often requires history-dependent strategies. Nevertheless, interpreting the borrower's impatience as a form of fading memory, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the Planner's allocation can only be approximated by Markov debt management policies. I show that emerging economies such as Argentina and Brazil present evidence of such approximation albeit with different policies and outcome. In particular, conducting buybacks, the latter country comes quantitatively closer to constrained Pareto efficiency.",
+    "abstract": "This paper assesses the efficiency of the sovereign debt management in emerging economies. I consider a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with foreign lenders. The borrower is impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by costly debt buybacks. Moreover, as the lenders must enforce those buybacks, the implementation generally requires history-dependent strategies. Nevertheless, interpreting the borrower's impatience as a form of bounded memory, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the Planner's allocation can only be approximated by Markov strategies. I show that emerging economies such as Argentina and Brazil present evidence of such approximation albeit with different outcomes. The multiplicity in outcome comes from the lenders’ beliefs about costly buybacks and risky lending. I find that Brazil has a more efficient sovereign debt management than Argentina.",
     "language": "en",
     "page": "56",
     "title": "Efficient Sovereign Debt Management in Emerging Economies",
@@ -16,7 +16,7 @@
         "link": "https://adrien-wicht.github.io/profile/"
       },
       {
-        "family": "Presented at: Penn Macro Student Talk 2022, BSE Summer Forum 2022, SEA 2022, Riksbank PhD Workshop 2023, QMUL PhD Workshop 2023."
+        "family": "Presented at: Penn Macro Student Talk 2022, BSE Summer Forum 2022, SEA 2022, Riksbank PhD Workshop 2023, QMUL PhD Workshop 2023, SED 2023, XXVI Workshop on Dynamic Macroeconomics, EUI-Banque de France Conference 2023, EEA 2023."
       }
     ],
     "issued": {
