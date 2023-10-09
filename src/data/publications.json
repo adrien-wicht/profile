@@ -88,47 +88,6 @@
     "bibtex": "@article{liuMakingSovereignDebt2023, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
   },
   {
-    "id": "GLRA2023",
-    "filename": "GLRA2023.pdf",
-    "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/GLRA2023.pdf",
-    "type": "article-journal",
-    "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "We explore the complementarity between a central bank and a financial stability Fund in stabilizing sovereign debt markets. The central bank pursuing its mandate can intervene with public sector purchasing programs, buying sovereign debt in the secondary market, provided that the debt is safe. The sovereign sells its debt to private lenders, through market auctions. Furthermore, it has access to a long-term state-contingent contract with a Fund: a country-specific debt-and-insurance contract which accounts for no-default and sustainability constraints. The Fund needs to guarantee gross-financial-needs and no-over-lending. We show that these constraints, if they are binding at the steady-state, endogenously determine the optimal debt maturity structure that minimizes the Required Fund Capacity (RFC) to make all sovereign debt safe. However, the Fund may have limited absorption capacity and not be able to cover its RFC. But the central bank may be able to cover the difference, in which case there is perfect complementarity and the joint institutions act as an effective lender of last resort. We calibrate our model to the Italian economy and find that with of a Fund contract its optimal maturity is 3 years with a RFC of 125% of its GDP, above what the European Stability Mechanism (ESM) could reasonably absorb, but may be feasible with an ECB Transmission Protection Instrument (TPI) intervention. In contrast, the average maturity of Italian sovereign debt has been circa 6.2 years, with a needed absorption capacity around 135% of GDP, which calls for a maturity restructure to ease the activation of TPI.",
-    "language": "en",
-    "page": "86",
-    "title": "On a Lender of Last Resort with a Central Bank and a Stability Fund",
-    "author": [
-      {
-        "family": "Callegari",
-        "given": "Giovanni",
-        "link": ""
-      },
-      {
-        "family": "Marimon",
-        "given": "Ramon",
-        "link": "https://www.ramonmarimon.eu/"
-      },
-      {
-        "family": "Wicht",
-        "given": "Adrien",
-        "link": "https://adrien-wicht.github.io/profile/"
-      },
-      {
-        "family": "Zavalloni",
-        "given": "Luca",
-        "link": "https://sites.google.com/site/lucazavalloniwarwick/"
-      },
-      {
-        "family": "Presented at: BSE Summer Forum 2023"
-      }
-    ],
-    "issued": {
-      "date-parts": [["2023"]]
-    },
-    "citation-key": "GLRA2023",
-    "bibtex": "@article{GLRA2023, title = {On a Lender of Last Resort with a Central Bank and a Stability Fund}, author = {Callegari, Giovanni and Marimon, Ramon and Wicht, Adrien and Zavalloni, Luca}, date = {2023}, langid = {english},}"
-  },
-  {
     "id": "GEE2022",
     "filename": "vicgoofstonybrook",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/vicgoofstonybrook.pdf",
@@ -206,6 +165,44 @@
     },
     "citation-key": "vvvmmrwcom",
     "bibtex": "@Article{vvvmmrwcom,   author = {Mateos-Planas, Xavier and McCrary, Sean and Rios-Rull, Jose-Victor and Wicht, Adrien},   title  = {Commitment in the Canonical Sovereign Default Model},   year   = {2023}, }"
+  },
+  {
+    "id": "GLRA2023",
+    "filename": "GLRA2023.pdf",
+    "download": "https://www.sciencedirect.com/science/article/pii/S1094202523000443?via%3Dihub",
+    "type": "article-journal",
+    "category": { "name": "Publications", "colour": "success" },
+    "abstract": "We explore the complementarity between a central bank and a financial stability Fund in stabilizing sovereign debt markets. The central bank pursuing its mandate can intervene with public sector purchasing programs, buying sovereign debt in the secondary market, provided that the debt is safe. The sovereign sells its debt to private lenders, through market auctions. Furthermore, it has access to a long-term state-contingent contract with a Fund: a country-specific debt-and-insurance contract that accounts for no-default and no-over-lending constraints. The Fund needs to guarantee gross-financial-needs and no-over-lending. We show that these constraints endogenously determine the ‘optimal debt maturity’ structure that minimizes the Required Fund Capacity (RFC) to make all sovereign debt safe. However, the Fund may have limited absorption capacity and fall short of its RFC. The central bank may be able to cover the difference, in which case there is perfect complementarity and the joint institutions act as an effective ‘lender of last resort’. We calibrate our model to the Italian economy and find that with a Fund contract its ‘optimal debt maturity’ is 2.9 years with an RFC of 90% of GDP, which is above what the European Stability Mechanism (ESM) could reasonably absorb, but may be feasible with an ECB Transmission Protection Instrument (TPI) intervention. In contrast, the average maturity of Italian sovereign debt has been circa 6.2 years, with a needed absorption capacity of around 105% of GDP, which may call for a maturity restructuring to ease the activation of TPI.",
+    "language": "en",
+    "page": "86",
+    "title": "On a Lender of Last Resort with a Central Bank and a Stability Fund",
+    "author": [
+      {
+        "family": "Callegari",
+        "given": "Giovanni",
+        "link": ""
+      },
+      {
+        "family": "Marimon",
+        "given": "Ramon",
+        "link": "https://www.ramonmarimon.eu/"
+      },
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      },
+      {
+        "family": "Zavalloni",
+        "given": "Luca",
+        "link": "https://sites.google.com/site/lucazavalloniwarwick/"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2023"]]
+    },
+    "citation-key": "GLRA2023",
+    "bibtex": "@article{CMWZ2023,  author = {Callegari, Giovanni and Marimon, Ramon and Wicht, Adrien and Zavalloni, Luca},  journal = {Review of Economic Dynamics},  month = oct,  pages = {106-130},  title = {On a Lender of Last Resort with a Central Bank and a Stability Fund},  volume = {50},  year = {2023}}"
   },
   {
     "id": "gerigkDemographicsCurrentAccount2018",
