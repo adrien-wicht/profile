@@ -1,17 +1,17 @@
 [
   {
-    "achievement": "Researcher",
-    "timeframe": "2023-present",
-    "category": "Education",
-    "description": "",
-    "location": "University of Basel"
-  },
-  {
     "achievement": "PhD in Economics",
     "timeframe": "2019-present",
     "category": "Education",
     "description": "",
     "location": "European University Institute"
+  },
+  {
+    "achievement": "Researcher",
+    "timeframe": "2023-present",
+    "category": "Education",
+    "description": "",
+    "location": "University of Basel"
   },
   {
     "achievement": "Visiting Scholar",
