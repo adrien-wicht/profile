@@ -52,39 +52,6 @@
     "bibtex": "@article{wichtSeniority2023, title = {Seniority and Sovereign Default: The Role of Official Multilateral Lenders}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
   },
   {
-    "id": "ALR2023",
-    "filename": "",
-    "download": "",
-    "type": "article-journal",
-    "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "We study the optimal design of a Financial Stability Fund. The Fund contract is based on a risk-assessment of the country and it is subject to limited enforcement (LE) and moral hazard (MH) constraints, therefore risk-sharing is limited. We analyse this tradeoff and its interaction with the LE constraints, as well as the role that the sovereign's impatience plays. Our benchmark is a Fund contract where the incentive compatibility (IC) rewards & punishments take place every period. Then we proceed with two inquires: {i}) what are the losses of having IC contracts with long spans of consumption smoothing, where the IC rewards & punishments take place at the end of the span?, can the long-span contract be designed to achieve the effort and the welfare of the benchmark contract?; {ii}) we introduce conditionality. We show that unobservable (non-contractable) effort not only has an effect on the final distribution of the observable outcome (e.g. government liabilities), but also can help to fulfil an observable (and contractable) condition informative of the improvement of the risk profile of the country. We use this framework to assess the underlying rules of the New Stability and Growth Pact. ",
-    "language": "en",
-    "page": "86",
-    "title": "Debt and Risk-Sharing with Moral Hazard",
-    "author": [
-      {
-        "family": "Marimon",
-        "given": "Ramon",
-        "link": "https://www.ramonmarimon.eu/"
-      },
-      {
-        "family": "Wicht",
-        "given": "Adrien",
-        "link": "https://adrien-wicht.github.io/profile/"
-      },
-      {
-        "family": "Zavalloni",
-        "given": "Luca",
-        "link": "https://sites.google.com/site/lucazavalloniwarwick/"
-      }
-    ],
-    "issued": {
-      "date-parts": [["2023"]]
-    },
-    "citation-key": "GLRA2023",
-    "bibtex": "@article{CMWZ2023,  author = {Marimon, Ramon and Wicht, Adrien and Zavalloni, Luca},  journal = {European University Institute},  month = oct,  pages = {},  title = {Debt and Risk-Sharing with Moral Hazard},  volume = {},  year = {2023}}"
-  },
-  {
     "id": "GEE2023",
     "filename": "vfinGEEmain_20231020",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/vfinGEEmain_20231020.pdf",
@@ -164,6 +131,39 @@
     "bibtex": "@Article{vvvmmrwcom,   author = {Mateos-Planas, Xavier and McCrary, Sean and Rios-Rull, Jose-Victor and Wicht, Adrien},   title  = {Commitment in the Canonical Sovereign Default Model},   year   = {2023}, }"
   },
   {
+    "id": "ALR2023",
+    "filename": "",
+    "download": "",
+    "type": "article-journal",
+    "category": { "name": "Current work and working papers", "colour": "primary" },
+    "abstract": "We study the optimal design of a Financial Stability Fund. The Fund contract is based on a risk-assessment of the country and it is subject to limited enforcement (LE) and moral hazard (MH) constraints, therefore risk-sharing is limited. We analyse this tradeoff and its interaction with the LE constraints, as well as the role that the sovereign's impatience plays. Our benchmark is a Fund contract where the incentive compatibility (IC) rewards & punishments take place every period. Then we proceed with two inquires: {i}) what are the losses of having IC contracts with long spans of consumption smoothing, where the IC rewards & punishments take place at the end of the span?, can the long-span contract be designed to achieve the effort and the welfare of the benchmark contract?; {ii}) we introduce conditionality. We show that unobservable (non-contractable) effort not only has an effect on the final distribution of the observable outcome (e.g. government liabilities), but also can help to fulfil an observable (and contractable) condition informative of the improvement of the risk profile of the country. We use this framework to assess the underlying rules of the New Stability and Growth Pact. ",
+    "language": "en",
+    "page": "86",
+    "title": "Debt and Risk-Sharing with Moral Hazard",
+    "author": [
+      {
+        "family": "Marimon",
+        "given": "Ramon",
+        "link": "https://www.ramonmarimon.eu/"
+      },
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      },
+      {
+        "family": "Zavalloni",
+        "given": "Luca",
+        "link": "https://sites.google.com/site/lucazavalloniwarwick/"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2023"]]
+    },
+    "citation-key": "GLRA2023",
+    "bibtex": "@article{CMWZ2023,  author = {Marimon, Ramon and Wicht, Adrien and Zavalloni, Luca},  journal = {European University Institute},  month = oct,  pages = {},  title = {Debt and Risk-Sharing with Moral Hazard},  volume = {},  year = {2023}}"
+  },
+  {
     "id": "YRAMakingSovereignDebt2023",
     "filename": "YRAMakingSovereignDebt2023.pdf",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/YRAMakingSovereignDebt2023.pdf",
@@ -172,7 +172,7 @@
     "abstract": "We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow defaultable bonds on the private international market, while having with the Fund a long-term contingent contract subject to limited enforcement constraints. The Fund contract does not have {ex ante} conditionality, but requires an accurate country-specific risk-assessment (DSA), accounting for the Fund contract. The Fund periodically announces the level of liabilities the country can sustain to achieve the constrained efficient allocation. The Fund is only required {minimal absorption} of the sovereign debt, but it must provide insurance (Arrow-securities) to the country. Furthermore, with the Fund {all sovereign debt is safe independently of the seniority structure}; however, for the Fund, seniority may require a greater {minimal absorption} than a {pari passu} regime. We calibrate our model to the Italian economy and show it would have had a more efficient path of debt accumulation with the Fund.",
     "language": "en",
     "page": "86",
-    "title": "Making Sovereign Debt Safe with a Financial Stability Fund",
+    "title": "Making Sovereign Debt Safe with a Financial Stability Fund, Journal of International Economics",
     "author": [
       {
         "family": "Liu",
@@ -194,7 +194,7 @@
       }
     ],
     "issued": {
-      "date-parts": [["2023"]]
+      "date-parts": [["Forthcoming"]]
     },
     "citation-key": "liuMakingSovereignDebt2023",
     "bibtex": "@article{liuMakingSovereignDebt2023, title = {Making Sovereign Debt Safe with a Financial Stability Fund}, author = {Liu, Yan and Marimon, Ramon and Wicht, Adrien}, date = {2022}, journal = {BSE Working Paper}, langid = {english},}"
@@ -208,7 +208,7 @@
     "abstract": "We explore the complementarity between a central bank and a financial stability Fund in stabilizing sovereign debt markets. The central bank pursuing its mandate can intervene with public sector purchasing programs, buying sovereign debt in the secondary market, provided that the debt is safe. The sovereign sells its debt to private lenders, through market auctions. Furthermore, it has access to a long-term state-contingent contract with a Fund: a country-specific debt-and-insurance contract that accounts for no-default and no-over-lending constraints. The Fund needs to guarantee gross-financial-needs and no-over-lending. We show that these constraints endogenously determine the ‘optimal debt maturity’ structure that minimizes the Required Fund Capacity (RFC) to make all sovereign debt safe. However, the Fund may have limited absorption capacity and fall short of its RFC. The central bank may be able to cover the difference, in which case there is perfect complementarity and the joint institutions act as an effective ‘lender of last resort’. We calibrate our model to the Italian economy and find that with a Fund contract its ‘optimal debt maturity’ is 2.9 years with an RFC of 90% of GDP, which is above what the European Stability Mechanism (ESM) could reasonably absorb, but may be feasible with an ECB Transmission Protection Instrument (TPI) intervention. In contrast, the average maturity of Italian sovereign debt has been circa 6.2 years, with a needed absorption capacity of around 105% of GDP, which may call for a maturity restructuring to ease the activation of TPI.",
     "language": "en",
     "page": "86",
-    "title": "On a Lender of Last Resort with a Central Bank and a Stability Fund",
+    "title": "On a Lender of Last Resort with a Central Bank and a Stability Fund, Review of Economic Dynamics",
     "author": [
       {
         "family": "Callegari",
@@ -246,7 +246,7 @@
     "abstract": "This paper investigates the relationship between demographics and the current account. We analyze the impact of recent demographic changes and provide a forecast of its future impact. Overall, we find a strong and robust, non-linear demographic effect. In particular, we find a positive association between the current account and the share of a population’s prime-age individuals and a negative association with the share of the elderly. Our forecast suggests that, given the dramatically aging population in most industrialized countries, demographics will likely decrease the current account balance in the near future in those countries.",
     "language": "en",
     "page": "32",
-    "title": "Demographics and the current account",
+    "title": "Demographics and the Current Account, Aussenwirtschaft",
     "author": [
       {
         "family": "Gerigk",
