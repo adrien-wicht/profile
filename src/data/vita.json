@@ -1,5 +1,12 @@
 [
   {
+    "achievement": "Researcher",
+    "timeframe": "2023-present",
+    "category": "Education",
+    "description": "",
+    "location": "University of Basel"
+  },
+  {
     "achievement": "PhD in Economics",
     "timeframe": "2019-present",
     "category": "Education",
@@ -35,6 +42,13 @@
     "location": "University of Fribourg"
   },
   {
+    "achievement": "External Research Advisor",
+    "timeframe": "2022-2023",
+    "category": "Research Assistance",
+    "description": "",
+    "location": "European Stability Mechanism"
+  },
+  {
     "achievement": "Research Assistant",
     "timeframe": "2020-2021",
     "category": "Research Assistance",
@@ -47,6 +61,20 @@
     "category": "Research Assistance",
     "description": "",
     "location": "International Policy Analysis, Swiss National Bank"
+  },
+  {
+    "achievement": "Beliefs & Learning and Dynamic Contracts & Mechanism Design (PhD elective course)",
+    "timeframe": "2023-2024",
+    "category": "Teaching Assistance",
+    "description": "",
+    "location": "European University Institute"
+  },
+  {
+    "achievement": "Macro III - Incomplete Markets (PhD core course)",
+    "timeframe": "2022-2023",
+    "category": "Teaching Assistance",
+    "description": "",
+    "location": "European University Institute"
   },
   {
     "achievement": "Advanced Macro Introduction (PhD elective course)",
