@@ -265,7 +265,7 @@
       }
     ],
     "issued": {
-      "date-parts": [["2018"]]
+      "date-parts": [["2018"],"Aussenwirtschaft"]
     },
     "citation-key": "gerigkDemographicsCurrentAccount2018",
     "bibtex": "@article{gerigkDemographicsCurrentAccount2018, title = {Demographics and the Current Account}, author = {Gerigk Joschka and Rinawi, Miriam and Wicht, Adrien}, date = {2018}, journal = {Aussenwirtschaft}, volume = {69}, number = {1}, pages = {45-76}, langid = {english},}"
