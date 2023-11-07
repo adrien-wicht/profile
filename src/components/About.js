@@ -26,6 +26,8 @@ function FaceCard() {
                 <br />
                 <a href="mailto:adrien.wicht@eui.eu"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@eui.eu"> adrien.wicht@eui.eu</a>
                 <br />
+                <a href="https://scholar.google.com/citations?view_op=list_works&hl=fr&user=lly9TBsAAAAJ"><Icons.Google /></a> <a href="https://scholar.google.com/citations?view_op=list_works&hl=fr&user=lly9TBsAAAAJ">Google Scholar</a>
+                <br />
                 <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf"><Icons.ClipboardDataFill /></a> <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf">CV</a>
                 <br />
                 <a href="https://ch.linkedin.com/in/adrien-wicht-8a6734218"><Icons.Linkedin /></a> <a href="https://ch.linkedin.com/in/adrien-wicht-8a6734218">Linkedin</a>
