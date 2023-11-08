@@ -17,7 +17,7 @@ function FaceCard() {
             <Card.Body>
                 <Card.Text>
                     I am a PhD candidate in Economics at the European University Institute. My advisors are Ramon Marimon and Alexander Monge-Naranjo.
-                    My research interests lie in Dynamic Macroeconomics, International Economics, Sovereign Defaults and Contract Design.
+                    My research interests lie in Macroeconomics, International Macroeconomics, Sovereign debt ad Defaults and Recursive Contracts.
                 </Card.Text>
             </Card.Body>
 
@@ -26,7 +26,7 @@ function FaceCard() {
                 <br />
                 <a href="mailto:adrien.wicht@eui.eu"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@eui.eu"> adrien.wicht@eui.eu</a>
                 <br />
-                <a href="https://scholar.google.com/citations?view_op=list_works&hl=fr&user=lly9TBsAAAAJ"><Icons.Google /></a> <a href="https://scholar.google.com/citations?view_op=list_works&hl=fr&user=lly9TBsAAAAJ">Google Scholar</a>
+                <a href="https://scholar.google.com/citations?hl=en&user=lly9TBsAAAAJ"><Icons.Google /></a> <a href="https://scholar.google.com/citations?hl=en&user=lly9TBsAAAAJ">Google Scholar</a>
                 <br />
                 <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf"><Icons.ClipboardDataFill /></a> <a href="https://raw.githubusercontent.com/adrien-wicht/profile/main/documents/cv_ac_en.pdf">CV</a>
                 <br />
