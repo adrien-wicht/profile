@@ -5,7 +5,7 @@
     "download": "https://www.sciencedirect.com/science/article/pii/S0022199623001204",
     "type": "article-journal",
     "category": { "name": "Publications", "colour": "success" },
-    "abstract": "We develop an optimal design of a Financial Stability Fund that coexists with the international debt market. The sovereign can borrow defaultable bonds on the private international market, while having with the Fund a long-term contingent contract subject to limited enforcement constraints. The Fund contract does not have ex ante conditionality, but requires an accurate country-specific risk-assessment (DSA), accounting for the Fund contract. The Fund periodically announces the level of liabilities the country can sustain to achieve the constrained efficient allocation. The Fund is only required minimal absorption of the sovereign debt, but it must provide insurance (Arrow-securities) to the country. Furthermore, with the Fund all sovereign debt is safe independently of the seniority structure; however, for the Fund, seniority may require a greater minimal absorption than a pari passu regime. We calibrate our model to the Italian economy and show it would have had a more efficient path of debt accumulation with the Fund.",
+    "abstract": "",
     "language": "en",
     "page": "86",
     "title": "Making Sovereign Debt Safe with a Financial Stability Fund",

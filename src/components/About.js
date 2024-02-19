@@ -16,8 +16,9 @@ function FaceCard() {
             />
             <Card.Body>
                 <Card.Text>
-                    I am a PhD candidate in Economics at the European University Institute. My advisors are Ramon Marimon and Alexander Monge-Naranjo.
+                    I am a postdoc at the University of Basel.
                     My research interests lie in Macroeconomics, International Macroeconomics, Sovereign debt ad Defaults and Recursive Contracts.
+                    I hold a PhD in Economics from the European University Institute.
                 </Card.Text>
             </Card.Body>
 
