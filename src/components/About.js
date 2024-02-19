@@ -17,7 +17,7 @@ function FaceCard() {
             <Card.Body>
                 <Card.Text>
                     I am a postdoc at the University of Basel.
-                    My research interests lie in Macroeconomics, International Macroeconomics, Sovereign debt ad Defaults and Recursive Contracts.
+                    My research interests lie in Macroeconomics, International Macroeconomics, Sovereign Debt and Recursive Contracts.
                     I hold a PhD in Economics from the European University Institute.
                 </Card.Text>
             </Card.Body>
