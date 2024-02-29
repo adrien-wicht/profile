@@ -118,7 +118,7 @@
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/Wicht_JMP.pdf",
     "type": "article-journal",
     "category": { "name": "Current work and working papers", "colour": "primary" },
-    "abstract": "This paper assesses the efficiency of the sovereign debt management in emerging economies. I consider a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with two foreign lenders. The borrower is impatient and lacks commitment. I show that the market economy cannot implement the Planner's constrained efficient allocation through defaults but instead by costly debt buybacks. Moreover, as the lenders must enforce those buybacks, the implementation generally requires history-dependent strategies. Nevertheless, interpreting the borrower's impatience as a form of bounded memory, small perturbations in the payoff of the market participants rule out any other strategies than Markov ones. In this case, the Planner's allocation can only be approximated by Markov strategies. I show that emerging economies such as Argentina and Brazil present evidence of such approximation albeit with different outcomes. The multiplicity in outcome comes from the strategic interaction between the two lenders. I find that Brazil has a more efficient sovereign debt management than Argentina.",
+    "abstract": "This paper assesses the sovereign debt management of emerging economies in terms of maturity, buyback and default. I consider a market economy in which a sovereign borrower trades non-contingent bonds of different maturities with two foreign lenders. The strategic interaction between the lenders generates two Markov equilibria. The first one features buybacks at a premium and no defaults, while the second one predicts the opposite. The two equilibria can be Pareto ranked. In particular, the market economy can implement the Planner’s constrained efficient allocation through changes in maturity and premium-bearing buybacks. Defaults cannot substitute for such buybacks. In addition, the lenders must enforce the payment of the premium. Such enforcement might fail, though. I relate my findings to the experience of Argentina and Brazil since 1995. I estimate that the Brazilian government paid an average premium of 6% at issuance on its buyback operations. The model predicts that the debt management of Brazil is not constrained efficient yet more efficient than the one of Argentina. ",
     "language": "en",
     "page": "56",
     "title": "Efficient Sovereign Debt Management in Emerging Economies",
@@ -133,10 +133,10 @@
       }
     ],
     "issued": {
-    "date-parts": [["2023"]]
+    "date-parts": [["2024"]]
     },
-    "citation-key": "wichtHDD2023",
-    "bibtex": "@article{wichtHDD2023, title = {Efficient Sovereign Debt Management in Emerging Economies}, author = {Wicht, Adrien}, date = {2023}, journal = {European University Institute}, langid = {english},}"
+    "citation-key": "wichtbuyback",
+    "bibtex": "@article{wichtbuyback, title = {Efficient Sovereign Debt Management in Emerging Economies}, author = {Wicht, Adrien}, date = {2024}, journal = {European University Institute}, langid = {english},}"
   },
   {
     "id": "wichtSeniority2023",
