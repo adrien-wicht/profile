@@ -25,7 +25,7 @@ function FaceCard() {
             <Card.Footer>
                 <a href="https://www.eui.eu/people?id=adrien-wicht"><Icons.GeoAltFill /></a><a href="https://www.eui.eu/people?id=adrien-wicht">European University Institute</a>
                 <br />
-                <a href="mailto:adrien.wicht@eui.eu"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@eui.eu"> adrien.wicht@eui.eu</a>
+                <a href="mailto:adrien.wicht@unibas.ch"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@unibas.ch"> adrien.wicht@unibas.ch</a>
                 <br />
                 <a href="https://scholar.google.com/citations?hl=en&user=lly9TBsAAAAJ"><Icons.Google /></a> <a href="https://scholar.google.com/citations?hl=en&user=lly9TBsAAAAJ">Google Scholar</a>
                 <br />
