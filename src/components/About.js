@@ -23,7 +23,7 @@ function FaceCard() {
             </Card.Body>
 
             <Card.Footer>
-                <a href="https://wwz.unibas.ch/de/personen/adrien-wicht/"><Icons.GeoAltFill /></a><a href="https://wwz.unibas.ch/de/personen/adrien-wicht/">University of Basel</a>
+                <a href="https://wwz.unibas.ch/en/persons/wicht-adrien/"><Icons.GeoAltFill /></a><a href="https://wwz.unibas.ch/en/persons/wicht-adrien/">University of Basel</a>
                 <br />
                 <a href="mailto:adrien.wicht@unibas.ch"><Icons.EnvelopeFill /></a> <a href="mailto:adrien.wicht@unibas.ch"> adrien.wicht@unibas.ch</a>
                 <br />
