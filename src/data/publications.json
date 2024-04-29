@@ -277,6 +277,62 @@
     "bibtex": "@article{CMWZ2023,  author = {Marimon, Ramon and Wicht, Adrien and Zavalloni, Luca},  journal = {European University Institute},  month = oct,  pages = {},  title = {Debt and Risk-Sharing with Moral Hazard},  volume = {},  year = {2023}}"
   },
   {
+    "id": "G24",
+    "filename": "",
+    "download": "",
+    "type": "article-journal",
+    "category": { "name": "Current work and working papers", "colour": "primary" },
+    "abstract": "This paper derives the optimal fiscal and environmental policy under limited commitment. A government decides how to allocate resources between a polluting production technology and environment protection. There is a fixed environmental capital which stochastically depreciates with pollution and stochastically expands with environmental actions. The government can issue debt to finance its budget but cannot commit to any fiscal or environmental policy. I find that, in periods of financial distress, the government decides to deplete the environmental capital to avoid reduction in consumption. As the environmental capital depreciates stochastically with pollution, the government effectively gambles over the future state of the environment. I analyze recent shifts in the environmental policies of selected countries and connect them with a measure of fiscal tightness. There is evidence that such countries loosen their environmental policy when facing a larger fiscal burden.",
+    "language": "en",
+    "page": "86",
+    "title": "Fiscal and Environmental Policy under Limited Commitment",
+    "author": [
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2024"]]
+    },
+    "citation-key": "G24",
+    "bibtex": "@article{CMWZ2023,  author = {Wicht, Adrien},  journal = {University of Basel},  month = apr,  pages = {},  title = {Fiscal and Environmental Policy under Limited Commitment},  volume = {},  year = {2024}}"
+  },
+  {
+    "id": "AMW24",
+    "filename": "",
+    "download": "",
+    "type": "article-journal",
+    "category": { "name": "Current work and working papers", "colour": "primary" },
+    "abstract": "",
+    "language": "en",
+    "page": "86",
+    "title": "Sovereign Debt Maturity and the Political Process",
+    "author": [
+      {
+        "family": "Adlung",
+        "given": "Darius",
+        "link": "https://wwz.unibas.ch/de/personen/darius-alexander-adlung/"
+      },
+      {
+        "family": "Muller",
+        "given": "Andreas",
+        "link": "https://sites.google.com/site/mrandreasmueller/"
+      },
+      {
+        "family": "Wicht",
+        "given": "Adrien",
+        "link": "https://adrien-wicht.github.io/profile/"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2024"]]
+    },
+    "citation-key": "G24",
+    "bibtex": "@article{CMWZ2023,  author = {Adlung, Darius and Muller, Andreas and Wicht, Adrien},  journal = {University of Basel},  month = apr,  pages = {},  title = {Sovereign Debt Maturity and the Political Process},  volume = {},  year = {2024}}"
+  },
+  {
     "id": "marimonEuroAreaFiscal2021",
     "filename": "marimonEuroAreaFiscal2021.pdf",
     "download": "https://raw.githubusercontent.com/adrien-wicht/profile/main/publications/marimonEuroAreaFiscal2021.pdf",
