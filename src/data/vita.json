@@ -96,5 +96,19 @@
     "category": "Teaching Assistance",
     "description": "",
     "location": "European University Institute"
+  },
+  {
+    "achievement": "Advanced International Macroeconomics",
+    "timeframe": "Fall 2024",
+    "category": "Teaching",
+    "description": "Master Course",
+    "location": "University of Basel"
+  },
+  {
+    "achievement": "International Money and Finance",
+    "timeframe": "Spring 2024",
+    "category": "Teaching",
+    "description": "Bachelor Course",
+    "location": "University of Basel"
   }
 ]
