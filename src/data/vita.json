@@ -2,8 +2,50 @@
   {
     "achievement": "Postdoc",
     "timeframe": "2024-present",
-    "category": "Education",
+    "category": "Current and Past Appointments",
     "description": "",
+    "location": "University of Basel"
+  },
+  {
+    "achievement": "External Advisor",
+    "timeframe": "2022-2023",
+    "category": "Current and Past Appointments",
+    "description": "",
+    "location": "European Stability Mechanism"
+  },
+  {
+    "achievement": "Visiting Scholar",
+    "timeframe": "09.2021-02.2022",
+    "category": "Current and Past Appointments",
+    "description": "",
+    "location": "University of Pennsylvania"
+  },
+  {
+    "achievement": "Research Assistant",
+    "timeframe": "2020-2021",
+    "category": "Current and Past Appointments",
+    "description": "",
+    "location": "Robert Schuman Center for Advanced Studies, EUI"
+  },
+  {
+    "achievement": "Research Assistant",
+    "timeframe": "2017-2018",
+    "category": "Current and Past Appointments",
+    "description": "",
+    "location": "International Policy Analysis, Swiss National Bank"
+  },
+  {
+    "achievement": "Advanced International Macroeconomics",
+    "timeframe": "Fall 2024",
+    "category": "Teaching",
+    "description": "Master Course",
+    "location": "University of Basel"
+  },
+  {
+    "achievement": "International Money and Finance",
+    "timeframe": "Spring 2025",
+    "category": "Teaching",
+    "description": "Bachelor Course",
     "location": "University of Basel"
   },
   {
@@ -12,13 +54,6 @@
     "category": "Education",
     "description": "",
     "location": "European University Institute"
-  },
-  {
-    "achievement": "Visiting Scholar",
-    "timeframe": "09.2021-02.2022",
-    "category": "Education",
-    "description": "",
-    "location": "University of Pennsylvania"
   },
   {
     "achievement": "MRes in Economics",
@@ -40,40 +75,5 @@
     "category": "Education",
     "description": "",
     "location": "University of Fribourg"
-  },
-  {
-    "achievement": "Advanced International Macroeconomics",
-    "timeframe": "Fall 2024",
-    "category": "Teaching",
-    "description": "Master Course",
-    "location": "University of Basel"
-  },
-  {
-    "achievement": "International Money and Finance",
-    "timeframe": "Spring 2025",
-    "category": "Teaching",
-    "description": "Bachelor Course",
-    "location": "University of Basel"
-  },
-  {
-    "achievement": "External Research Advisor",
-    "timeframe": "2022-2023",
-    "category": "Research Assistance",
-    "description": "",
-    "location": "European Stability Mechanism"
-  },
-  {
-    "achievement": "Research Assistant",
-    "timeframe": "2020-2021",
-    "category": "Research Assistance",
-    "description": "",
-    "location": "Robert Schuman Center for Advanced Studies, EUI"
-  },
-  {
-    "achievement": "Research Assistant",
-    "timeframe": "2017-2018",
-    "category": "Research Assistance",
-    "description": "",
-    "location": "International Policy Analysis, Swiss National Bank"
   }
 ]
